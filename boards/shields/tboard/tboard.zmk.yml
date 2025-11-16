@@ -1,12 +1,8 @@
 file_format: "1"
 id: tboard
-name: TBoard
+name: tBoard
 type: shield
 url: https://github.com/froggernator/zmk-config-tboard
-requires: [pro_micro]
+requires: [nice_nano_v2]
 features:
   - keys
-siblings:
-  - tboard_left
-  - tboard_right
-  - tboard_central
