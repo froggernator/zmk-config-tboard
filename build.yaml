@@ -1,11 +1,4 @@
 ---
 include:
   - board: nice_nano_v2
-    shield: tboard_central
-    artifact-name: tboard-central
-  - board: nice_nano_v2
-    shield: tboard_left
-    artifact-name: tboard-left
-  - board: nice_nano_v2
-    shield: tboard_right
-    artifact-name: tboard-right
+    shield: tboard
